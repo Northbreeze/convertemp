@@ -19,3 +19,11 @@ Convert from Fahrenheit to Kelvin:
 fahr_to_kelvin(32)
 #> [1] 273.15
 ```
+
+
+### Unit Testing
+
+In this package,  I've improved the convertemp R package by using testthat to write automated unit tests for the 6 functions in the package.
+
+Here is the link to the file:
+
